@@ -34,9 +34,9 @@ Here are some projects that I'm proud of:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manik-agnish-7765671b6/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/manik_agnish)
-- Portfolio: [Your Portfolio Website](https://www.manikagnish.com)
+- LinkedIn: [manik-agnish-7765671b6](https://www.linkedin.com/in/manik-agnish-7765671b6/)
+- Twitter: [@manik_agnish](https://twitter.com/manik_agnish)
+- Portfolio: [manikagnish.com](https://www.manikagnish.com)
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just to say hi!
 
