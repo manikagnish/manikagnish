@@ -13,14 +13,14 @@ I'm a Frontend Software Developer with over two years of experience in building 
 ## 💼 Professional Experience
 
 - **Delta4 Infotech** - *Frontend Software Developer* (July 2022 - Present)
-  - Worked as a Frontend Software developer and worked on building an AI Sass product
+  - Worked as a Frontend Software developer and worked on building an AI Sass product.
 
 - **Skyrockets** - *Frontend Intern* (February 2022 - July 2022)
   - Worked as a Frontend Software developer and worked on building a job hunting platform for aspiring performers of art.
 
 ## 🌱 What I'm Currently Learning
 
-- I'm always looking to enhance my skills. Currently, I'm exploring Promt Engineering.
+- I'm always looking to enhance my skills. Currently, I'm exploring Prompt Engineering.
 
 ## 🔧 Projects
 
