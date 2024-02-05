@@ -15,7 +15,7 @@ I'm a Frontend Software Developer with over two years of experience in building 
 - **Delta4 Infotech** - *Frontend Software Developer* (July 2022 - Present)
   - Worked as a Frontend Software developer and worked on building an AI Sass product.
 
-- **Skyrockets** - *Frontend Intern* (February 2022 - July 2022)
+- **Skyrockets** - *Frontend Software Developer* (February 2022 - July 2022)
   - Worked as a Frontend Software developer and worked on building a job hunting platform for aspiring performers of art.
 
 ## 🌱 What I'm Currently Learning
@@ -34,7 +34,7 @@ Here are some projects that I'm proud of:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [manik-agnish-7765671b6](https://www.linkedin.com/in/manik-agnish-7765671b6/)
+- LinkedIn: [manik-agnish-7765671b6](https://www.linkedin.com/in/manikagnish)
 - Twitter: [@manik_agnish](https://twitter.com/manik_agnish)
 - Portfolio: [manikagnish.com](https://www.manikagnish.com)
 
