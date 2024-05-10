@@ -1,6 +1,6 @@
 # Hi there, I'm Manik Agnish 👋
 
-I'm a Frontend Software Developer with over two years of experience in building web and mobile applications. I specialize in JavaScript, TypeScript, React/Next.js, React Native, Tailwind CSS, Framer Motion, and have a keen eye for UI/UX design using Figma.
+I'm a Frontend Software Developer with over three years of experience in building web and mobile applications. I specialize in JavaScript, TypeScript, React/Next.js, React Native, Tailwind CSS, Framer Motion, and have a keen eye for UI/UX design using Figma.
 
 ## 🚀 Skills
 
@@ -12,11 +12,14 @@ I'm a Frontend Software Developer with over two years of experience in building 
 
 ## 💼 Professional Experience
 
-- **Delta4 Infotech** - *Frontend Software Developer* (July 2022 - Present)
+- **Delta4 Infotech** - *Frontend Software Developer* (Sept 2022 - Apr 2024)
   - Worked as a Frontend Software developer and worked on building an AI Sass product.
 
-- **Skyrockets** - *Frontend Software Developer* (February 2022 - July 2022)
+- **Skyrockets** - *Frontend Software Developer* (Feb 2022 - Sept 2022)
   - Worked as a Frontend Software developer and worked on building a job hunting platform for aspiring performers of art.
+
+- **Electrobyte** - *React Developer* (Mar 2021 - Feb 2022)
+  - Implemented reusable React components, improving code maintainability, leading to faster feature delivery and reduced bug rates. Developed responsive design for web application, improving user experience and brand perception.
 
 ## 🌱 What I'm Currently Learning
 
