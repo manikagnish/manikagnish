@@ -1,3 +1,3 @@
 # Hi there, I'm Manik Agnish 👋
 
-I'm a Frontend Software Developer with over three years of experience in building web and mobile applications. I specialize in JavaScript, TypeScript, React/Next.js, React Native, Tailwind CSS, Framer Motion, and have a keen eye for UI/UX design using Figma.
+Software developer and freelancer with four plus years of experience. Expert in React.js, Next.js, React Native, Node.js, and Express. I build scalable, user-focused web and mobile apps.
