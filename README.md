@@ -4,5 +4,4 @@ I’m a software developer, indie hacker, and coffee enthusiast ☕. Over the pa
 
 I mainly work with **React, Next.js, React Native, Node.js, and Express**, creating web and mobile apps that are simple, scalable, and user-friendly.  
 
-🌐 [Portfolio](https://manikagnish.com)  
-🐦 [Twitter](https://x.com/agnishmanik_dev)  
+🌐 [Portfolio](https://manikagnish.com) • 🐦 [Twitter](https://x.com/agnishmanik_dev) • 💼 [LinkedIn](https://linkedin.com/in/manikagnish)  
