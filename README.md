@@ -1,5 +1,3 @@
 # Hi there, I'm Manik Agnish 👋  
 
-I’m a software developer, indie hacker, and coffee enthusiast ☕. Over the past few years, I’ve worked in startups, freelanced, and now focus on building my own products.  
-
-I mainly work with the react native and next.js
+I’m a software developer and indie hacker who enjoys building thoughtful, user-focused products. Over the years, I’ve worked across startup environments, freelance projects, and independent ventures, gaining hands-on experience owning features end to end. My work focuses on creating reliable, scalable web and mobile experiences with strong attention to performance, usability, and maintainable architecture. I primarily work with React Native and Next.js, and enjoy turning ideas into production-ready products.
